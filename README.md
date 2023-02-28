@@ -11,7 +11,7 @@ Each repository created every two months includes a new set of projects contribu
 3. Create a pull request with a descriptive title and description of your changes.
 4. Your pull request will be reviewed by other members of the club before being merged into the repository.
 
-#Folder Structure
+# Folder Structure
 
 The repository is organized into folders that represent different data analytics topics. Each folder contains projects related to that topic. The current folder structure is:
 
