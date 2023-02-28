@@ -15,12 +15,12 @@ Each repository created every two months includes a new set of projects contribu
 
 The repository is organized into folders that represent different data analytics topics. Each folder contains projects related to that topic. The current folder structure is:
 
-+ Data-Analysis/: projects related to data cleaning, exploration, and analysis.
-+ Data-Visualization/: projects related to visualizing data using various tools and libraries.
-+ Machine-Learning/: projects related to building and evaluating machine learning models.
-+ Deep-Learning/: projects related to building and evaluating deep learning models.
-+ Natural-Language-Processing/: projects related to natural language processing and text analytics.
-+ Other-Topics/: projects related to data analytics that do not fit into the above categories.
++ **Data-Analysis/**: projects related to data cleaning, exploration, and analysis.
++ **Data-Visualization/**: projects related to visualizing data using various tools and libraries.
++ **Machine-Learning/**: projects related to building and evaluating machine learning models.
++ **Deep-Learning/**: projects related to building and evaluating deep learning models.
++ **Natural-Language-Processing/**: projects related to natural language processing and text analytics.
++ **Other-Topics/**: projects related to data analytics that do not fit into the above categories.
 
 # Code of Conduct
 
