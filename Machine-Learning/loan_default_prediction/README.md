@@ -1,10 +1,10 @@
 # Loan Default Prediction
 Defaulting on a loan is a major concern for both individuals and businesses. Loan default prediction is the practice of assessing the risk of a borrower not repaying a loan or credit. Lenders use a variety of factors to determine this risk, including credit score, income and employment history, debts, and assets.
 
-This project aims to develop a machine learning model that can accurately predict the likelihood of loan default based on borrower information. The data used in this project was obtained from XYZ Bank and includes information such as borrower credit score, income, and loan type.
+This project aims to develop a machine learning model that can accurately predict the likelihood of loan default based on borrower information. The data used in this project was obtained from Kaggle and includes information such as borrower credit score, income, and loan type.
 
 ## Data
-The data used in this project is available in the loan_data.csv file. It includes information on 10,000 loans and their associated borrowers. The data has been preprocessed to handle missing values and categorical variables have been encoded as numerical values.
+The data used in this project is available in the Loan_Default_Data.csv file. It includes information on ~50,000 loans and their associated borrowers. The data has been preprocessed to handle missing values and categorical variables have been encoded as numerical values.
 
 ## Methodology
 + The first step in this project was to perform exploratory data analysis to gain insights into the data and identify any patterns or trends. This included visualizations such as histograms, scatterplots, and correlation matrices.
