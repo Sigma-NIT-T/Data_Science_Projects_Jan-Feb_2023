@@ -25,3 +25,12 @@ The project deals with time series analysis and subsequent forecasting on retail
 1. Sabarni Paul
 2. Anand Modi
 3. Sundar Raghavan 
+
+# Loan Default Prediction
+
+The project is about loan default prediction and the importance of understanding it for borrowers and financial institutions. The dataset analyzed contains around 50,000 datapoints and 114 features to work with. The tech stack used was Python and its libraries Pandas, Matplotlib, Seaborn, Nump and Sci-kit learn. The coding was done in Jupyter Enviroment
+
+## Contributors:
+
+1. Gaurav Singh
+2. Sundar Raghavan.
