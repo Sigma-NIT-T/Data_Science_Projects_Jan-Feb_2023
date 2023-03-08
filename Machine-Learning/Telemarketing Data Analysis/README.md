@@ -21,3 +21,5 @@ Tree based models were found to be highly accurate and also handled the flaws in
 + Rohit Jalani
 + Adhithyan Sivakumar
 + Atif Rehman
++ Gaurav Singh
++ Kritik Chopra
