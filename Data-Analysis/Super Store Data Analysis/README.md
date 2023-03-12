@@ -4,7 +4,7 @@ The sample Dataset includes data for the Sales of multiple products sold by a su
 
 # Contributors:
 
-1.Avantika
+1. Avantika
 2. Pragati
 3. Ishika
 4. Nikhil
