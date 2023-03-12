@@ -34,3 +34,31 @@ The project is about loan default prediction and the importance of understanding
 
 1. Gaurav Singh
 2. Sundar Raghavan.
+
+# Telemarketing Data Analysis
+
++ Problem: Banks need to analyze marketing campaign datasets to stay competitive and improve strategies.
++ Goal: Develop a machine learning model to predict the likelihood of a customer subscribing to a term deposit.
++ Data: Marketing campaign dataset from a Portuguese banking institution with various client, campaign, and socio-economic attribu
+
+## Contributors :
+
+1. Rohit Jalani
+2. Adhithyan Sivakumar
+3. Atif Rehman
+4. Gaurav Singh
+5. Kritik Chopra
+
+# Credit Card Data Analysis
+
++ Problem: Increasing number of customers leaving credit card services.
++ Goal: Develop a classification model to predict which customers are likely to leave and provide better services to retain them.
++ Data: Credit card customer dataset with information about 10127 transactions.
+
+## Contributors:
+
+1. Aryan Bhargava
+2. Harsh Fatehchandka
+3. Vaibhav Mehrotra
+4. Karan Dhingra
+5. Sundar Raghavan
