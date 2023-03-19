@@ -17,7 +17,7 @@
 + Goal: Provide a comprehensive analysis of unicorn companies' data, including their geographical distribution, industry focus, and funding history.
 + Data: Includes information on unicorn companies' location, industry focus, funding rounds, and valuations.
 
-CONTRIBUTORS
+## Contributors
 
 1. Shloke Maheshwari
 2. Vibha Shreya
