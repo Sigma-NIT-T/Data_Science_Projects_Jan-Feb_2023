@@ -24,3 +24,17 @@
 3. Divyansh Tadaiya
 4. Aman Patni
 5. Aniket Mittal
+
+# Startups Data Analysis
+
++ Problem: The problem is to analyze the dataset of companies registered with MCA in 2021 and identify the trends in the industry based on their location of registration and types of business.
++ Goal: The goal is to gain insights into the industry by analyzing the data on the location of registration and types of business of the companies registered with MCA in 2021.
++ Data: The dataset contains information on companies registered with MCA in 2021, including their nature of business, registration location, date of registration, and whether they are run by the Government of India or private.
+
+## Contributors:
+
+1. Nishaanth
+2. Mukunthan
+3. Shrilakshmi
+4. Sibi
+5. Manan
